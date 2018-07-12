@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Lana Anthony Kane",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/LanaKane.png/150px-LanaKane.png",
+    "occupation": "Special Agent",
+    "location": "New York City"
+  },
+  {
+    "id": 2,
+    "name": "Cheryl Tunt",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Cheryl_Tunt.png/150px-Cheryl_Tunt.png",
+    "occupation": "Personal Assistant",
+    "location": "New York City"
+  },
+  {
+    "id": 3,
+    "name": "Pam Poovey",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/b/b9/Pam_Poovey.png/revision/latest?cb=20141013063722",
+    "occupation": "H.R. Director",
+    "location": "New York City"
+  },
+  {
+    "id": 4,
+    "name": "Sterling Archer",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Sterling_Archer.png/150px-Sterling_Archer.png",
+    "occupation": "secret agent",
+    "location": "Unknown"
+  },
+  {
+    "id": 5,
+    "name": "Cyril Figgis",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/d/dc/Cyril_Figgis.png/revision/latest?cb=20141013063526",
+    "occupation": "Comptroller",
+    "location": "New York City"
+  },
+  {
+    "id": 6,
+    "name": "Malory Archer",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/2/26/Malory_Archer.png/revision/latest?cb=20141013063353",
+    "occupation": "CEO of ISIS",
+    "location": "New York City"
+  },
+  {
+    "id": 7,
+    "name": "Dr Krieger",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/b/bb/Algernop_Krieger.png/revision/latest?cb=20151013042053",
+    "occupation": "Head of Applied Research",
+    "location": "Secret Lab"
+  },
+  {
+    "id": 8,
+    "name": "Ray Gillette",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/6/62/Ray_Gillette.png/revision/latest?cb=20151013031515",
+    "occupation": "Analyst",
+    "location": "New York City"
+  },
+  {
+    "id": 9,
+    "name": "Woodhouse",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/c/c0/Woodhouse.png/revision/latest?cb=20160924184905",
+    "occupation": "Butler",
+    "location": "Archer's Penhouse"
+  },
+  {
+    "id": 10,
+    "name": "Katya Kazanova",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTY1OTc4ODk2NV5BMl5BanBnXkFtZTgwNTU4ODQ2MjE@._V1_UY268_CR87,0,182,268_AL_.jpg",
+    "occupation": "KGB Agent",
+    "location": "Unknown"
+  }
+]
